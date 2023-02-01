@@ -5,7 +5,7 @@
 This project was developed for the practice of HTML Fundamentals and Responsive Web Design. <br>
 https://codepen.io/celiceceron/full/KKBvdzp
 
-## Gif Demonstration
+## Gif demonstration
 ![Web 1](https://github.com/celiceceron/technicalDocumentationPageProject/blob/7435de835e3d3ecebba7a15e9b0a862d47011a20/web%20page.gif)
 
 # Used languages
