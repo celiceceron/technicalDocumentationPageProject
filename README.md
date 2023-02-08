@@ -10,7 +10,7 @@ https://codepen.io/celiceceron/full/KKBvdzp
 
 # Used languages
 ## Front end
-- HTML
+- HTML5
 - CSS 
 - Responsive Web Design
 
